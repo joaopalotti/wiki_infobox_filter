@@ -2,7 +2,7 @@
 
 How about going through all wikipedia articles in a xml dump and filtering the ones that contain a pre-defined set of keywords in their infobox?
 
-That's the aim of this small project.
+That's the aim of this small project. Note that because of encoding problems, everything here is made and tested only on python 3.
 
 ## USING
 
@@ -22,9 +22,17 @@ Afterwards, you can download the pages (articles) from any wiki language using "
 Alternatively, you can modify parser.py to extract from the dumps the content of the files you wish to save.
 I am doing that in two steps because I need to access different wikipedia, but your needs surely will differ from mine.
 
+## DEPENDENCIES
+
+```bash
+>> pip install wikipedia mwparserfromhell
+```
+
 
 ## MISSING:
 
 1. Tests
 2. I should avoid asking users to modify the first line of dumps.
+
+
 
