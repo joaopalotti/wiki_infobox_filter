@@ -1,0 +1,82 @@
+Wolff–Parkinson–White syndrome (WPW) is one of several disorders of the electrical system of the heart that are commonly referred to as pre-excitation syndromes.
+WPW is caused by the presence of an abnormal accessory electrical conduction pathway between the atria and the ventricles. Electrical signals traveling down this abnormal pathway (known as the bundle of Kent) may stimulate the ventricles to contract prematurely, resulting in a unique type of supraventricular tachycardia referred to as an atrioventricular re-entrant tachycardia.
+WPW affects between 0.1 and 0.3% in the population. Sudden cardiac death in people with WPW is rare (less than 0.6%), and is usually caused by the propagation of an atrial tachydysrhythmia (rapid and abnormal heart rate) to the ventricles by the accessory pathway.
+
+
+== Signs and symptoms ==
+People with WPW are usually asymptomatic. However, the individual may experience palpitations, dizziness, shortness of breath, or syncope (fainting or near fainting) during episodes of supraventricular tachycardia. The telltale "delta wave" may sometimes be seen on an electrocardiogram (ECG/EKG).
+
+
+== Pathophysiology ==
+
+Electrical activity in the normal human heart begins when a cardiac action potential arises in the sinoatrial (SA) node, which is located in the right atrium. From there, the electrical stimulus is transmitted via internodal pathways to the atrioventricular (AV) node. After a brief delay at the AV node, the stimulus travels through the bundle of His to the left and right bundle branches and then to the Purkinje fibers and the endocardium at the apex of the heart, then finally to the ventricular myocardium.
+The AV node serves an important function as a "gatekeeper", limiting the electrical activity that reaches the ventricles. In situations where the atria generate excessively rapid electrical activity (such as atrial fibrillation or atrial flutter), the AV node limits the number of signals conducted to the ventricles. For example, if the atria are electrically activated at 300 beats per minute, half those electrical impulses may be blocked by the AV node, so that the ventricles are stimulated at only 150 beats per minute—resulting in a pulse of 150 beats per minute. Another important property of the AV node is that it slows down individual electrical impulses. This is manifested on the electrocardiogram as the PR interval (the time from electrical activation of the atria to electrical activation of the ventricles), which is usually shortened to less than 120 milliseconds in duration.
+Individuals with WPW have an accessory pathway that communicates between the atria and the ventricles, in addition to the AV node. This accessory pathway is known as the bundle of Kent. This accessory pathway does not share the rate-slowing properties of the AV node, and may conduct electrical activity at a significantly higher rate than the AV node. For instance, in the example above, if an individual had an atrial rate of 300 beats per minute, the accessory bundle may conduct all the electrical impulses from the atria to the ventricles, causing the ventricles to contract at 300 beats per minute. Extremely rapid heart rates such as this may result in hemodynamic instability or cardiogenic shock. In some cases, the combination of an accessory pathway and abnormal heart rhythms can trigger ventricular fibrillation, a leading cause of sudden cardiac death.
+WPW may be associated with PRKAG2, a protein kinase enzyme encoded by the PRKAG2 gene.
+
+
+=== Bundle of Kent ===
+
+The bundle of Kent is an abnormal extra or accessory conduction pathway between the atria and ventricles that is present in a small percentage (between 0.1 and 0.3%) of the general population. This pathway may communicate between the left atrium and the left ventricle, in which case it is termed a "type A pre-excitation", or between the right atrium and the right ventricle, in which case it is termed a "type B pre-excitation". Problems arise when this pathway creates an electrical circuit that bypasses the AV node. The AV node is capable of slowing the rate of conduction of electrical impulses to the ventricles, whereas the bundle of Kent lacks this capability. When an aberrant electrical connection is made via the bundle of Kent, tachydysrhythmias may therefore result.
+
+
+== Diagnosis ==
+
+WPW is commonly diagnosed on the basis of the electrocardiogram in an asymptomatic individual. In this case, it is manifested as a delta wave, which is a slurred upstroke in the QRS complex that is associated with a short PR interval. The short PR interval and slurring of the QRS complex are actually the impulse making it through to the ventricles prematurely (across the accessory pathway) without the usual delay experienced in the AV node.
+If a person with WPW experiences episodes of atrial fibrillation, the ECG shows a rapid polymorphic wide-complex tachycardia (without torsades de pointes). This combination of atrial fibrillation and WPW is considered dangerous, and most antiarrhythmic drugs are contraindicated.
+When an individual is in normal sinus rhythm, the ECG characteristics of WPW are a short PR interval (less than 120 milliseconds in duration), widened QRS complex (greater than 120 milliseconds in duration) with slurred upstroke of the QRS complex, and secondary repolarization changes (reflected in ST segment-T wave changes).
+In individuals with WPW, electrical activity that is initiated in the SA node travels through the accessory pathway, as well as through the AV node to activate the ventricles via both pathways. Since the accessory pathway does not have the impulse slowing properties of the AV node, the electrical impulse first activates the ventricles via the accessory pathway, and immediately afterwards via the AV node. This gives the short PR interval and slurred upstroke of the QRS complex known as the delta wave.
+In case of type A pre-excitation (left atrioventricular connections), a positive R wave is seen in V1 ("positive delta") on the precordial leads of the electrocardiogram, while in type B pre-excitation (right atrioventricular connections), a predominantly negative delta wave is seen in lead V1 ("negative delta").
+People with WPW may have more than one accessory pathway—in some cases, as many as eight abnormal pathways have been found. This has been seen in individuals with Ebstein's anomaly.
+Wolff–Parkinson–White syndrome is sometimes associated with Leber's hereditary optic neuropathy, a form of mitochondrial disease.
+
+
+=== Risk stratification ===
+
+Treatment is based on risk stratification of the individual, which is performed to determine which individuals with WPW are at risk for sudden cardiac death (SCD). The medical history may point to previous episodes of unexplained syncope (fainting) or palpitations (sudden awareness of one's own, usually irregular, heartbeat). These may be due to earlier episodes of a tachycardia associated with the accessory pathway.
+If an individual's delta waves disappear with increases in the heart rate, he or she is considered to be at lower risk of SCD. This is because the loss of the delta wave shows that the accessory pathway cannot conduct electrical impulses at a high rate (in the anterograde direction). These individuals typically do not have fast conduction down the accessory pathway during episodes of atrial fibrillation.
+Risk stratification is best performed via programmed electrical stimulation (PES) in the cardiac electrophysiology laboratory. This is an invasive but generally low-risk procedure during which the atria are stimulated to try to induce tachycardia. If a tachycardia involving the accessory pathway can be triggered, the cardiologist can then assess how rapidly the accessory pathway is able to conduct. The faster it can conduct, the higher the likelihood the accessory pathway can conduct fast enough to trigger a lethal tachycardia.
+High-risk features that may be present during PES include an effective refractory period of the accessory pathway less than 250 ms, multiple pathways, septal location of pathway, and inducibility of supraventricular tachycardia (AVRT, atrial fibrillation). Individuals with any of these high-risk features are generally considered at increased risk for SCD or symptomatic tachycardia, and should be treated accordingly (i.e.: catheter ablation).
+It is unclear whether invasive risk stratification (with PES) is necessary in the asymptomatic individual. While some groups advocate PES for risk stratification in all individuals under 35 years old, others only offer it to individuals who have history suggestive of a tachydysrhythmia, since the incidence of sudden cardiac death is so low (less than 0.6% in some reports).
+
+
+== Treatment ==
+People with WPW who are experiencing tachydysrhythmias may require synchronized electrical cardioversion if they are demonstrating severe signs or symptoms (for example, low blood pressure or lethargy with altered mental status). If they are relatively stable, pharmacologic treatment may be used.
+People with atrial fibrillation and rapid ventricular response are often treated with amiodarone or procainamide to stabilize their heart rate. Procainamide and cardioversion are now accepted treatments for conversion of tachycardia found with WPW. Amiodarone was previously thought to be safe in atrial fibrillation with WPW, but after several cases of ventricular fibrillation, it is no longer recommended in this clinical scenario.
+AV node blockers should be avoided in atrial fibrillation and atrial flutter with WPW or history of it; this includes adenosine, diltiazem, verapamil, other calcium channel blockers, and beta blockers. They can exacerbate the syndrome by blocking the heart's normal electrical pathway (therefore favoring 1:1 atrial to ventricle conduction through the pre-excitation pathway, potentially leading to unstable ventricular arrhythmias).
+The definitive treatment of WPW is a destruction of the abnormal electrical pathway by radiofrequency catheter ablation. This procedure is performed by cardiac electrophysiologists. Radiofrequency catheter ablation is not performed in all individuals with WPW because inherent risks are involved in the procedure. When performed by an experienced electrophysiologist, radiofrequency ablation has a high success rate. Findings from 1994 indicate success rates of as high as 95% in people treated with radiofrequency catheter ablation for WPW. If radiofrequency catheter ablation is successfully performed, the condition is generally considered cured. Recurrence rates are typically less than 5% after a successful ablation. The one caveat is that individuals with underlying Ebstein's anomaly may develop additional accessory pathways during progression of their disease.
+
+
+== History ==
+The bundle of Kent is eponymously named for British physiologist Albert Frank Stanley Kent (1863–1958), who described lateral branches in the atrioventricular groove of the monkey heart (erroneously believing these constituted the normal atrioventricular conduction system).
+In 1915, Frank Norman Wilson (1890–1952) became the first to describe the condition later called Wolff–Parkinson–White syndrome. Alfred M. Wedd (1887–1967) was the next to describe the condition in 1921. Cardiologists Louis Wolff (1898–1972), John Parkinson (1885–1976) and Paul Dudley White (1886–1973) are credited with the definitive description of the disorder in 1930.
+
+
+== Notable cases ==
+Breanna Vergara, American Dancer
+LaMarcus Aldridge, American basketball player
+Michael Cera, Canadian actor
+Nathan Eagleton, former Australian rules football player
+Jeff Garlin, American actor, writer, and comedian
+Quentin Groves, American football player who died of a heart attack at age 32
+Dan Hardy, British UFC welterweight fighter, turned analyst and commentator
+Mitch Hurwitz, American television writer and producer, creator of Arrested Development
+Jessie J, British musician
+Marilyn Manson, American musician, painter, and actor
+Meat Loaf, American musician
+Michael Rupp, American ice hockey player
+Montel Vontavious Porter, professional wrestler
+Michael Montgomery, American football player
+
+
+== See also ==
+Re-entry ventricular arrhythmia
+
+
+== References ==
+
+
+== External links ==
+Cardiac Disorders - Open Directory Project
+Genetics Home Reference:Wolff-Parkinson-White syndrome (United States National Library of Medicine, Bethesda, Maryland)
+The University of Iowa Children's Hospital - Animation and Video discussing WPW - Video section.

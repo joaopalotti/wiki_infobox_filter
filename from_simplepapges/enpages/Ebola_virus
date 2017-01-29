@@ -1,0 +1,83 @@
+Ebola virus (/ɛˈboʊlə/; EBOV, formerly designated Zaire ebolavirus) is one of five known viruses within the genus Ebolavirus. Four of the five known ebolaviruses, including EBOV, cause a severe and often fatal hemorrhagic fever in humans and other mammals, known as Ebola virus disease (EVD). Ebola virus has caused the majority of human deaths from EVD, and is the cause of the 2013–2015 Ebola virus epidemic in West Africa, which has resulted in at least 28,616 suspected cases and 11,310 confirmed deaths.
+Ebola virus and its genus were both originally named for Zaire (now the Democratic Republic of Congo), the country where it was first described, and was at first suspected to be a new "strain" of the closely related Marburg virus. The virus was renamed "Ebola virus" in 2010 to avoid confusion. Ebola virus is the single member of the species Zaire ebolavirus, which is the type species for the genus Ebolavirus, family Filoviridae, order Mononegavirales. The natural reservoir of Ebola virus is believed to be bats, particularly fruit bats, and it is primarily transmitted between humans and from animals to humans through body fluids.
+The EBOV genome is a single-stranded RNA approximately 19,000 nucleotides long. It encodes seven structural proteins: nucleoprotein (NP), polymerase cofactor (VP35), (VP40), GP, transcription activator (VP30), VP24, and RNA-dependent RNA polymerase (L).
+Because of its high mortality rate (up to 83-90%), EBOV is also listed as a select agent, World Health Organization Risk Group 4 Pathogen (requiring Biosafety Level 4-equivalent containment), a U.S. National Institutes of Health/National Institute of Allergy and Infectious Diseases Category A Priority Pathogen, U.S. CDC Centers for Disease Control and Prevention Category A Bioterrorism Agent, and listed as a Biological Agent for Export Control by the Australia Group.
+
+
+== Structure ==
+
+EBOV carries a negative-sense RNA genome in virions that are cylindrical/tubular, and contain viral envelope, matrix, and nucleocapsid components. The overall cylinders are generally approximately 80 nm in diameter, and have a virally encoded glycoprotein (GP) projecting as 7-10 nm long spikes from its lipid bilayer surface. The cylinders are of variable length, typically 800 nm, but sometimes up to 1000 nm long. The outer viral envelope of the virion is derived by budding from domains of host cell membrane into which the GP spikes have been inserted during their biosynthesis. Individual GP molecules appear with spacings of about 10 nm. Viral proteins VP40 and VP24 are located between the envelope and the nucleocapsid (see following), in the matrix space. At the center of the virion structure is the nucleocapsid, which is composed of a series of viral proteins attached to an 18–19 kb linear, negative-sense RNA without 3′-polyadenylation or 5′-capping (see following); the RNA is helically wound and complexed with the NP, VP35, VP30, and L proteins; this helix has a diameter of 80 nm.
+The overall shape of the virions after purification and visualization (e.g., by ultracentrifugation and electron microscopy, respectively) varies considerably; simple cylinders are far less prevalent than structures showing reversed direction, branches, and loops (e.g., U-, shepherd's crook-, 9- or eye bolt-shapes, or other or circular/coiled appearances), the origin of which may be in the laboratory techniques applied. The characteristic "threadlike" structure is, however, a more general morphologic characteristic of filoviruses (alongside their GP-decorated viral envelope, RNA nucleocapsid, etc.).
+
+
+== Genome ==
+Each virion contains one molecule of linear, single-stranded, negative-sense RNA, 18,959 to 18,961 nucleotides in length. The 3′ terminus is not polyadenylated and the 5′ end is not capped. This viral genome codes for seven structural proteins and one non-structural protein. The gene order is 3′ – leader – NP – VP35 – VP40 – GP/sGP – VP30 – VP24 – L – trailer – 5′; with the leader and trailer being non-transcribed regions, which carry important signals to control transcription, replication, and packaging of the viral genomes into new virions. Sections of the NP, VP35 and the L genes from filoviruses have been identified as endogenous in the genomes of several groups of small mammals.
+
+It was found that 472 nucleotides from the 3' end and 731 nucleotides from the 5' end are sufficient for replication of a viral "minigenome", though not sufficient for infection. Virus sequencing from 78 patients with confirmed Ebola virus disease, representing more than 70% of cases diagnosed in Sierra Leone from late May to mid-June 2014, provided evidence that the 2014 outbreak is no longer being fed by new contacts with its natural reservoir. Like other RNA viruses the Ebola virus mutates rapidly, both within a person during the progression of disease and in the reservoir among the local human population. The observed mutation rate of 2.0 x 10−3 substitutions per site per year is as fast as that of seasonal influenza. This is likely to represent incomplete purifying selection as the virus is repeatedly passed from human to human, and may pose challenges for the development of a vaccine to the virus.
+
+
+== Entry ==
+
+There are two candidates for host cell entry proteins. The first is a cholesterol transporter protein, the host-encoded Niemann–Pick C1 (NPC1), which appears to be essential for entry of Ebola virions into the host cell and for its ultimate replication. In one study, mice with one copy of the NPC1 gene removed showed an 80 percent survival rate fifteen days after exposure to mouse-adapted Ebola virus, while only 10 percent of unmodified mice survived this long. In another study, small molecules were shown to inhibit Ebola virus infection by preventing viral envelope glycoprotein (GP) from binding to NPC1. Hence, NPC1 was shown to be critical to entry of this filovirus, because it mediates infection by binding directly to viral GP.
+When cells from Niemann–Pick Type C individuals lacking this transporter were exposed to Ebola virus in the laboratory, the cells survived and appeared impervious to the virus, further indicating that Ebola relies on NPC1 to enter cells; mutations in the NPC1 gene in humans were conjectured as a possible mode to make some individuals resistant to this deadly viral disease. The same studies described similar results regarding NPC1's role in virus entry for Marburg virus, a related filovirus. A further study has also presented evidence that NPC1 is the critical receptor mediating Ebola infection via its direct binding to the viral GP, and that it is the second "lysosomal" domain of NPC1 that mediates this binding.
+The second candidate is TIM-1 (a.k.a. HAVCR1). TIM-1 was shown to bind to the receptor binding domain of the EBOV glycoprotein, to increase the receptivity of Vero cells. Silencing its effect with siRNA prevented infection of Vero cells. TIM1 is expressed in tissues known to be seriously impacted by EBOV lysis (trachea, cornea, and conjunctiva). A monoclonal antibody against the IgV domain of TIM-1, ARD5, blocked EBOV binding and infection.Together, these studies suggest NPC1 and TIM-1 may be potential therapeutic targets for an Ebola anti-viral drug and as a basis for a rapid field diagnostic assay.
+
+
+== Replication ==
+Being acellular, viruses such as Ebola do not replicate through any type of cell division; rather, they use a combination of host- and virally encoded enzymes, alongside host cell structures, to produce multiple copies of themselves. These then self-assemble into viral macromolecular structures in the host cell. The virus completes a set of steps when infecting each individual cell.The virus begins its attack by attaching to host receptors through the glycoprotein (GP) surface peplomer and is endocytosed into macropinosomes in the host cell. To penetrate the cell, the viral membrane fuses with vesicle membrane, and the nucleocapsid is released into the cytoplasm. Encapsidated, negative-sense genomic ssRNA is used as a template for the synthesis (3'-5') of polyadenylated, monocistronic mRNAs and, using the host cell's ribosomes, tRNA molecules, etc., the mRNA is translated into individual viral proteins.
+These viral proteins are processed: a glycoprotein precursor (GP0) is cleaved to GP1 and GP2, which are then heavily glycosylated using cellular enzymes and substrates. These two molecules assemble, first into heterodimers, and then into trimers to give the surface peplomers. Secreted glycoprotein (sGP) precursor is cleaved to sGP and delta peptide, both of which are released from the cell. As viral protein levels rise, a switch occurs from translation to replication. Using the negative-sense genomic RNA as a template, a complementary +ssRNA is synthesized; this is then used as a template for the synthesis of new genomic (-)ssRNA, which is rapidly encapsidated.The newly formed nucleocapsids and envelope proteins associate at the host cell's plasma membrane; budding occurs, destroying the cell.
+
+
+== Ecology ==
+Ebola virus is a zoonotic pathogen. Intermediary hosts have been reported to be "various species of fruit bats ... throughout central and sub-Saharan Africa". Evidence of infection in bats has been detected through molecular and serologic means. However, ebolaviruses have not been isolated in bats. End hosts are humans and great apes, infected through bat contact or through other end hosts. Pigs in the Philippines have been reported to be infected with Reston virus, so other interim or amplifying hosts may exist. Ebola virus outbreaks tend to occur when temperatures are lower and humidity is higher than the usual for Africa. Even after a person recovers from the acute phase of the disease, Ebola virus survives for months in certain organs such as the eyes and testes.
+
+
+== Ebola virus disease ==
+
+Ebola virus is one of the four ebolaviruses known to cause disease in humans. It has the highest case-fatality rate of these ebolaviruses, averaging 83 percent since the first outbreaks in 1976, although fatality rates up to 90 percent have been recorded in one outbreak (2002–03). There have also been more outbreaks of Ebola virus than of any other ebolavirus. The first outbreak occurred on 26 August 1976 in Yambuku. The first recorded case was Mabalo Lokela, a 44‑year-old schoolteacher. The symptoms resembled malaria, and subsequent patients received quinine. Transmission has been attributed to reuse of unsterilized needles and close personal contact, body fluids and places where the person has touched.During the 1976 Ebola outbreak in Zaire, Ngoy Mushola travelled from Bumba to Yambuku, where he recorded the first clinical description of the disease in his daily log:
+
+"The illness is characterized with a high temperature of about 39°C, hematemesis, diarrhea with blood, retrosternal abdominal pain, prostration with "heavy" articulations, and rapid evolution death after a mean of three days."
+
+Since the first recorded clinical description of the disease during 1976 in Zaire, the recent Ebola outbreak that started in March 2014, in addition, has reached epidemic proportions and has killed more than 8000 people as of January 2015. This outbreak has been centered in West Africa, an area that had not previously been affected by the disease. The toll has been particularly grave in three countries: Guinea, Liberia, and Sierra Leone. A few cases have also been reported in countries outside of West Africa, all related to international travelers who were exposed in the most affected regions and later showed symptoms of Ebola fever after reaching their destinations.
+The severity of the disease in humans varies widely, from rapid fatality to mild illness or even asymptomatic response. Studies of outbreaks in the late twentieth century failed to find a correlation between the disease severity and the genetic nature of the virus. Hence the variability in the severity of illness was suspected to correlate with genetic differences in the victims. This has been difficult to study in animal models that respond to the virus with hemorrhagic fever in a similar manner as humans, because typical mouse models do not so respond, and the required large numbers of appropriate test subjects are not easily available. In late October 2014, a publication reported a study of the response to a mouse-adapted strain of Zaire ebolavirus presented by a genetically diverse population of mice that was bred to have a range of responses to the virus that includes fatality from hemorrhagic fever.
+
+
+=== Vaccine ===
+
+In December 2016, a study found the VSV-EBOV vaccine to be 70–100% effective against the Ebola virus, making it the first vaccine against the disease.
+Many Ebola vaccine candidates had been developed in the decade prior to 2014, but as of October 2014, none had yet been approved by the United States Food and Drug Administration (FDA) for use in humans.
+
+
+== History and nomenclature ==
+
+Ebola virus was first identified as a possible new "strain" of Marburg virus in 1976. At the same time, a third team introduced the name "Ebola virus", derived from the Ebola River where the 1976 outbreak occurred. The International Committee on Taxonomy of Viruses (ICTV) identifies Ebola virus as species Zaire ebolavirus, which is included into the genus Ebolavirus, family Filoviridae, order Mononegavirales. The name "Ebola virus" is derived from the Ebola River—a river that was at first thought to be in close proximity to the area in Democratic Republic of Congo, previously called Zaire, where the 1976 Zaire Ebola virus outbreak occurred—and the taxonomic suffix virus.
+In 2000, the virus name was changed to Zaire Ebola virus, and in 2002 to species Zaire ebolavirus. However, most scientific articles continued to refer to "Ebola virus" or used the terms Ebola virus and Zaire ebolavirus in parallel. Consequently, in 2010, a group of researchers recommended that the name "Ebola virus" be adopted for a subclassification within the species Zaire ebolavirus, with the corresponding abbreviation EBOV. Previous abbreviations for the virus were EBOV-Z (for Ebola virus Zaire) and ZEBOV (for Zaire Ebola virus or Zaire ebolavirus). In 2011, the ICTV explicitly rejected a proposal (2010.010bV) to recognize this name, as ICTV does not designate names for subtypes, variants, strains, or other subspecies level groupings. At present, ICTV does not officially recognize "Ebola virus" as a taxonomic rank, and rather continues to use and recommend only the species designation Zaire ebolavirus. The prototype Ebola virus, variant Mayinga (EBOV/May), was named for Mayinga N'Seka, a nurse who died during the 1976 Zaire outbreak.
+
+
+== Virus inclusion criteria ==
+
+A virus of the species Zaire ebolavirus is an Ebola virus (EBOV) if it has the properties of Zaire ebolaviruses and if its genome diverges from that of the prototype Ebola virus, Ebola virus variant Mayinga (EBOV/May), by ten percent or less at the nucleotide level.
+
+
+== Literature ==
+William Close's 1995 Ebola: A Documentary Novel of Its First Explosion and 2002 Ebola: Through the Eyes of the People focused on individuals' reactions to the 1976 Ebola outbreak in Zaire.
+"The Hot Zone: A Terrifying True Story": A 1994 best-selling book by Richard Preston about Ebola virus and related viruses including an account of the outbreak of an Ebolavirus in primates housed in a quarantine facility in Reston, Virginia, USA.
+Tom Clancy's 1996 novel, Executive Orders, involves a Middle Eastern terrorist attack on the United States using an airborne form of a deadly Ebola virus named "Ebola Mayinga".
+
+
+== References ==
+
+Citations
+Klenk, Hans-Dieter; Feldmann, Heinz (2004). Ebola and Marburg Viruses – Molecular and Cellular Biology. Wymondham, Norfolk, UK: Horizon Bioscience. ISBN 978-0-9545232-3-7. 
+
+
+== External links ==
+ICTV Files and Discussions — Discussion forum and file distribution for the International Committee on Taxonomy of Viruses
+Genomic data on Ebola virus isolates and other members of the Filoviridae family
+ViralZone: Ebola-like viruses – Virological repository from the Swiss Institute of Bioinformatics
+Virus Pathogen Resource: Ebola Portal - Genomic and other research data about Ebola and other human pathogenic viruses
+U.C. Santa Cruz Ebola genome browser
+The Ebola Virus 3D model of the Ebola virus, prepared by Visual Science, Moscow.
+FILOVIR — scientific resources for research on filoviruses
+"Zaire ebolavirus". NCBI Taxonomy Browser. 186538. 
+"Ebola virus sp.". NCBI Taxonomy Browser. 205488.

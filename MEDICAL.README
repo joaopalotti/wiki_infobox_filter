@@ -1,0 +1,7 @@
+
+What is this branch for:
+
+1) I downloaded the Simple and English dumps from Jan 2017.
+2) Extracted pages from Simple Wiki that contained a list of keywords defined in keywords.def 
+3) Downloaded those pages from both Simple and English wikipedia in a folder called from_simplepages
+4) Build LMs from those different wikis.
