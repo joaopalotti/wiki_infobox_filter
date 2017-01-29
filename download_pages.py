@@ -1,5 +1,6 @@
 import wikipedia
 import sys
+import os
 
 title_file_input = sys.argv[1]
 outdir = sys.argv[2]
