@@ -3,5 +3,23 @@ What is this branch for:
 
 1) I downloaded the Simple and English dumps from Jan 2017.
 2) Extracted pages from Simple Wiki that contained a list of keywords defined in keywords.def 
-3) Downloaded those pages from both Simple and English wikipedia in a folder called from_simplepages
-4) Build LMs from those different wikis.
+3) Downloaded those pages from both Simple and English wikipedia in a folder called from_simplepages (enwiki.cat.txt, simplewiki.cat.txt are the concatenation of all english and simple files respectively)
+4) Build LMs from those different wikis:
+    4.1) run process_lm.py as following:
+            >> cat from_simplepapges/enwiki.cat.txt | python process_lm.py > enwiki.process.txt
+            >> cat from_simplepapges/simple.cat.txt | python process_lm.py > simplewiki.process.txt
+
+    4.2) created LM using kenLM (see http://victor.chahuneau.fr/notes/2012/07/03/kenlm.html, https://github.com/vchahun/kenlm and https://github.com/kpu/kenlm/ for more details on how to install and advanced features of kenlm):
+            >> cat simplewiki.process.txt | /home/palotti/kenlm/build/bin/lmplz -o3 > simplewiki.o3.arpa
+            >> cat enwiki.process.txt | /home/palotti/kenlm/build/bin/lmplz -o3 > enwiki.o3.arpa
+
+    4.3) Deleted intermediary files:
+            >> rm enwiki.process.txt simplewiki.process.txt
+
+    4.4) Given a list of files in a dir, run the LM models on each file:
+            >> python extract_lms.py /home/palotti/Dropbox/github/clef_readability/data/pool_2016/ > output
+
+            The main use of this is to obtain the LM scores for CLEF eHealth documents.
+            Note that extract_lms uses two external libraries that one needs to download (via pip: pip install byeHTML chardet)
+
+
