@@ -17,7 +17,7 @@ What is this branch for:
             >> rm enwiki.process.txt simplewiki.process.txt
 
     4.4) Given a list of files in a dir, run the LM models on each file:
-            >> python extract_lms.py /home/palotti/Dropbox/github/clef_readability/data/pool_2016/ > output
+            >> python extract_lms.py /home/palotti/Dropbox/github/clef_readability/data/pool_2016/ > wiki_lm.csv
 
             The main use of this is to obtain the LM scores for CLEF eHealth documents.
             Note that extract_lms uses two external libraries that one needs to download (via pip: pip install byeHTML chardet)
